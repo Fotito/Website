@@ -1,0 +1,44 @@
+@font-face {
+    font-family: CenturyGothic;
+    src: url(gothic.ttf);
+}
+
+div{
+    font-size: 32pt;
+    margin:auto;
+    
+border-radius: 10px;
+width:fit-content;
+height: auto;
+font-family: CenturyGothic;
+}
+
+body{font-family: CenturyGothic;
+    font-size: 40px;}
+
+.txtBox {
+padding: 50px;
+border: px solid;
+background-color: d9d9d9;
+font-family: CenturyGothic;
+}
+
+h1{font-size: 96pt;
+text-align: center;
+height: 20%;
+margin-left: 0%;} 
+
+h2{font-size: 40pt;
+border-bottom: 5px;
+padding-bottom: 10px;
+
+width: 100%;
+text-align: center;
+border-bottom-style: solid;
+border-color: black;} 
+
+.divBod{
+    text-align: center;
+}
+
+span{font-family: CenturyGothic;}
